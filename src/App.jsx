@@ -9,7 +9,7 @@ import AddSong from './pages/AddSong';
 import ListAlbum from './pages/ListAlbum';
 import ListSong from './pages/ListSong';
 
-export const url = process.env.REACT_APP_BASE_URL;
+export const url = `https://vinispotify-backend.onrender.com`;
 
 
 function App() {
